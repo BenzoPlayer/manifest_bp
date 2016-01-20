@@ -50,6 +50,7 @@
   <project path="external/boringssl" name="platform/external/boringssl" groups="pdk" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" groups="pdk" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" />
+  <project path="external/busybox" name="BenzoRom/external_busybox" remote="github" revision="marshmallow" />
   <project path="external/bzip2" name="platform/external/bzip2" groups="pdk" />
   <project path="external/cblas" name="platform/external/cblas" groups="pdk" />
   <project path="external/ceres-solver" name="platform/external/ceres-solver" groups="pdk-cw-fs,pdk-fs" />
@@ -454,6 +455,6 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
   <project path="vendor/benzo" name="BenzoPlayer/vendor_benzo" remote="github" revision="marshmallow" />
-  <project path="vendor/fugu" name="BenzoPlayer/vendor_asus_fugu" remote="github" revision="marshmallow" />
+  <project path="vendor/asus" name="BenzoPlayer/vendor_asus_fugu" remote="github" revision="marshmallow" />
 
 </manifest>
