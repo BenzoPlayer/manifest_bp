@@ -33,6 +33,7 @@
   <project path="device/asus/fugu" name="BenzoPlayer/device_asus_fugu" groups="device,fugu,broadcom_pdk" remote="github" revision="marshmallow" />
   <project path="kernel/asus/fugu" name="BenzoPlayer/kernel_asus_fugu" groups="device,fugu,broadcom_pdk" remote="github" revision="marshmallow" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" />
+  <project path="device/google/atv" name="BenzoPlayer/device_google_atv" groups="device,fugu,broadcom_pdk,generic_fs" remote="github" revision="mm" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs,pdk-fs" />
