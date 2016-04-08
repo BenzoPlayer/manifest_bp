@@ -374,7 +374,6 @@
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" groups="apps_stk,pdk-fs" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" groups="pdk-fs" />
   <project path="packages/apps/Terminal" name="platform/packages/apps/Terminal" groups="pdk-fs" />
-  <project path="packages/apps/Trebuchet" name="BenzoPlayer/packages_apps_Trebuchet" groups="pdk-fs" remote="github" revision="marshmallow" />
   <project path="packages/apps/TvSettings" name="BenzoPlayer/packages_apps_TvSettings" groups="generic_fs" remote="github" revision="marshmallow" />
   <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" groups="pdk-fs" />
   <project path="packages/experimental" name="platform/packages/experimental" />
